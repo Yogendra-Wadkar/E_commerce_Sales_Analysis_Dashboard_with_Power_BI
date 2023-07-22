@@ -55,5 +55,8 @@ The Ecommerce Sales Dashboard Power BI project is a comprehensive analysis of an
 ## Conclusion:
 The Ecommerce Sales Dashboard Power BI project delivers actionable insights, guiding the ecommerce company towards data-driven decision-making. By leveraging the power of Power BI, this project empowers stakeholders to strategize effectively, improve sales performance, and drive business growth.
 
+## Note:
+Please refer to the dashboard PDF provided in the Readme file to view the visualizations, KPI banners, and analysis.
+
 ## Tool Used:
 - Power BI: An advanced data visualization and business intelligence tool by Microsoft, enabling powerful data analysis and interactive dashboards.
