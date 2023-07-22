@@ -27,6 +27,8 @@ The repository is structured as follows:
 - **README.md:** This README file.
 
 ## Dashboard
+[dashboard.pdf](https://github.com/Yogendra-Wadkar/E_commerce_Sales_Analysis_Dashboard_with_Power_BI/files/12136375/dashboard.pdf)
+
 
 
 ## Contributions
