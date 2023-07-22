@@ -26,6 +26,9 @@ The repository is structured as follows:
 - **ECOMMERCE SALES DASHBOARD.pbix:** The main Power BI file with the interactive dashboard.
 - **README.md:** This README file.
 
+## Dashboard
+
+
 ## Contributions
 
 Contributions to the project are welcome! If you have any improvements, bug fixes, or additional features to suggest, feel free to open a pull request.
