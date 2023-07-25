@@ -18,12 +18,9 @@ Welcome to the ECOMMERCE SALES DASHBOARD repository! This project aims to analyz
 The raw sales data was cleaned and transformed to ensure accuracy and reliability. The "Data Cleaning" folder contains Python scripts used for data preprocessing.
 
 ## Project Structure
-
-The repository is structured as follows:
-
-- **Data Cleaning:** Contains Python scripts for data preprocessing.
-- **Data:** Holds the cleaned dataset used for analysis.
-- **ECOMMERCE SALES DASHBOARD.pbix:** The main Power BI file with the interactive dashboard.
+The repository is organized as follows:
+- **Project Storytelling:** The ppt file with the Detailed  Storytelling.
+- **Description:** The main file with the Detailed Description.
 - **README.md:** This README file.
 
 ## Dashboard
