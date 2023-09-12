@@ -37,4 +37,4 @@ For detailed insights and in-depth analysis of the E_commerce_Sales_Analysis_Das
 
 ## Contact
 
-For any inquiries or feedback, please contact me at www.linkedin.com/in/yogendra-wadkar .
+For any enquiries or feedback, please contact me at www.linkedin.com/in/yogendra-wadkar .
